@@ -27,7 +27,22 @@ Zavrsni ispit IT OiP
 
 //U paketu savez postoji Tim. Tim ima naziv, listu igrača, listu trenera, jednog menadžera i datum osnivanja. Liste igraca i trenera se stvaraju prazne. Igrac, trener i menadžer se kasnije mogu dodati u tim i pritom takođe potpisuju ugovor.
 
-//• Ispisuje se u formatu: Tim - Naziv tima (dan.mesec.godina osnivanja) - Menadzer - Igrac1 - Igrac2 - Trener1 - Trener2 ... (Igrače i trenere sortirati po pozicijama/zaduzenjima pre ispisa)
+//• Ispisuje se u formatu: 
+
+//Tim - Naziv tima (dan.mesec.godina osnivanja) 
+
+//- Menadzer 
+
+//- Igrac1 
+
+//- Igrac2 
+
+//- Trener1 
+
+//- Trener2 ... 
+
+//(Igrače i trenere sortirati po pozicijama/zaduzenjima pre ispisa)
+
 
 //U paketu savez postoji SportskoDrustvo. SportskoDrustvo ima naziv, adresu i listu timova. Lista timova se stvara prazna, a timovi se kasnije dodaju jedan po jedan.
 
